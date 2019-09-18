@@ -5,7 +5,7 @@ classifier.
 
 Usage:
 
-`python -d test.txt -m model.txt -o out.txt`
+`python LightGBM_predict_modelfile_API.py -d test.txt -m model.txt -o out.txt`
 
 -d -- data file
 
